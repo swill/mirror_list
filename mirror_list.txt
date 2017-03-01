@@ -1,2 +1,3 @@
-http://swillops.com
+http://swillkb.com
+http://swillops.com/blog/
 cloudops.com
